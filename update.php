@@ -23,7 +23,7 @@ if (isset($_POST['upgrade'])) {
     <meta name="author" content="Dashboard">
     <meta name="keyword" content="Dashboard, Bootstrap, Admin, Template, Theme, Responsive, Fluid, Retina">
 
-    <title>Life Control</title>
+    <title>Myrion Admin Panel</title>
 
     <!-- Bootstrap core CSS -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -55,7 +55,7 @@ if (isset($_POST['upgrade'])) {
     <!--header start-->
     <header class="header black-bg">
         <!--logo start-->
-        <a href="index.php" class="logo"><b>Life Control</b></a>
+        <a href="index.php" class="logo"><b>Myrion Admin Panel</b></a>
         <!--logo end-->
     </header>
     <!--header end-->
